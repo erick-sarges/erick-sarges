@@ -9,16 +9,17 @@ Sou um Desenvolvedor Full Stack e grande entusiasta das melhores tecnologias de 
 
 <div align="center">
  
- ![Erick Sarges GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-sarges&show_icons=true&theme=tokyonight)
+ [![Erick Sarges GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-sarges&show_icons=true&theme=tokyonight&bg_comor30,0d0d0d,191919&title_color=ff&icon-color=79ff97)](https://github.com/erick-sarges/github-readme-stats)
 
    </div>
  
 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-sarges&layout=compact)](https://github.com/erick-sarges/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-sarges&layout=compact&theme=tokyonight&bg_color=30,0d0d0d,191919&text_color=fff&icon_color79ff97)](https://github.com/erick-sarges/github-readme-stats)
  
- </div>
+
+
 
  ##
  
