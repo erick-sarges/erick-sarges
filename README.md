@@ -5,18 +5,21 @@ Sou um Desenvolvedor Full Stack e grande entusiasta das melhores tecnologias de 
 - 🌱 Tenho experiência com Typescript, Node.js, ReactJS e React Native.
 
 
+<div align="center">
+  <a href="https://github.com/erick-sarges">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-sarges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
+   </div>
+ 
 <div align="center">
  
- [![Erick Sarges GitHub stats](https://github-readme-stats.vercel.app/api?username=erick-sarges&show_icons=true&theme=tokyonight&bg_comor30,0d0d0d,191919&title_color=ff&icon-color=79ff97)](https://github.com/erick-sarges/github-readme-stats)
+  <a href="https://github.com/erick-sarges">
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-sarges&layout=compact&langs_count=7&theme=tokyonight"/>
 
    </div>
  
 
-<div align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-sarges&layout=compact&theme=tokyonight&bg_color=30,0d0d0d,191919&text_color=fff&icon_color79ff97)](https://github.com/erick-sarges/github-readme-stats)
  
 
 
