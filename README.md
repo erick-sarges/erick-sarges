@@ -16,11 +16,9 @@ Sou um Desenvolvedor Full Stack e grande entusiasta das melhores tecnologias de 
 
 <div align="center">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-sarges&layout=compact)](https://github.com/erick-sarges/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-sarges&layout=compact)](https://github.com/erick-sarges/github-readme-stats)
  
  </div>
- 
-
 
  ##
  
