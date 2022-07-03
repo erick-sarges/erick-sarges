@@ -1,8 +1,8 @@
 ### Olá! Eu sou Erick Sarges 👋
 
-Sou um Desenvolvedor Full Stack e grande entusiasta das melhores tecnologias de desenvolvimento web e mobile. Tenho experiência com projetos usando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Programa Ignite  na Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
+Estudante de  Desenvolvimento web Full Stack,  grande entusiasta das melhores tecnologias de desenvolvimento web. Pretendo me aprofundar em em ReactJS e NodeJS.
 
-- 🌱 Tenho experiência com Typescript, Node.js, ReactJS e React Native.
+- 🌱 Estudando Desenvolvimento Web.
 
 
 <div align="center">
