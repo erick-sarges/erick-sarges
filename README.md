@@ -1,6 +1,6 @@
 ### Olá! Eu sou Erick Sarges 👋
 
-Estudante de  Desenvolvimento Web Full Stack,  grande entusiasta das melhores tecnologias de desenvolvimento web. Pretendo me especializar em em ReactJS e NodeJS.
+Estudante de  Desenvolvimento Web Full Stack,  grande entusiasta das melhores tecnologias de desenvolvimento Web e Mobile. Pretendo me especializar em em ReactJS, NodeJS e React Native.
 
 - :computer: :rocket: Estudando Desenvolvimento Web.
 
