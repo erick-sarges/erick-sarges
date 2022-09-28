@@ -8,8 +8,6 @@ Estudante de  Desenvolvimento Web Full Stack,  grande entusiasta das melhores te
 <div align="center">
   <a href="https://github.com/erick-sarges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-sarges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-
 </div>
  
 <div align="center">
