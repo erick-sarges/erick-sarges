@@ -1,6 +1,6 @@
 ### Olá! Eu sou Erickel Sarges 👋
 
-Estudante de  Desenvolvimento Web Full Stack,  grande entusiasta das melhores tecnologias de desenvolvimento Web e Mobile. Pretendo me especializar em em ReactJS, NodeJS e React Native.
+Estudante de  Desenvolvimento Web Full Stack,  grande entusiasta das melhores tecnologias de desenvolvimento Web e Mobile. Pretendo me especializar em ReactJS, NodeJS e React Native.
 
 - :computer: :rocket: Estudando Desenvolvimento Web.
 
