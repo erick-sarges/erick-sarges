@@ -1,6 +1,6 @@
 ### Olá! Eu sou Erickel Sarges 👋
 
-Estudante de  Desenvolvimento Web Full Stack.
+Sou estudante de Tecnologia da Informação, com experiência prática na área, atuando profissionalmente no setor. Possuo conhecimentos intermediários em programação, com ênfase na linguagem JavaScript, além de habilidades em HTML, CSS e no uso de ferramentas de controle de versão, como Git e GitHub. Também detenho competências na área de suporte técnico, adquiridas por meio de formação e prática.
 
 - :computer: :rocket: Estudando Desenvolvimento Web.
 
